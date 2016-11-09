@@ -1,0 +1,1 @@
+chmod +x q5.sh | echo Executed
